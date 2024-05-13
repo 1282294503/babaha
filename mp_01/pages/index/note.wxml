@@ -1,0 +1,9 @@
+<!--pages/index/note.wxml-->
+<text>pages/index/note.wxml</text>
+
+<view class="container">
+
+  <textarea class="textarea"></textarea>
+  <button>保存</button>
+
+</view>
